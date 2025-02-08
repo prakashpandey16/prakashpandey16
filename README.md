@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center"> Hi there, I'm Prakash Pandey! 👋</h1>
+<p align="center">
+  🎓 BCA 2nd Year Student | 💻 Aspiring Data Engineer
+</p>
 
-<!--
-**prakashpandey16/prakashpandey16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me:
+- 🎓 **BCA 2nd Year** at **S.S. Jain Subodh P.G. College**  
+- 🎯 Exploring **SQL, Python, Pandas, and NumPy**  
+- 📩 Reach out: prakashpandeysearch192@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies:
+  
+**Programming:** Python, C++, C, Java, SQL  
+**Libraries:** Pandas, NumPy, Matplotlib  
+**Databases:** MySQL  
+**Tools:** Git, Jupyter Notebook, VS Code  
+
+---
+
+## 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakashpandey16&show_icons=true&theme=radical" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashpandey16&theme=radical" width="400px">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashpandey16&layout=compact&theme=radical" width="400px">
+</p>
+
+---
+
+## 📂 My Projects:
+🔹 **[📁 All My Projects](https://github.com/prakashpandey16/Projects)**  
+
+---
+
+## 📫 Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/prakash-pandey-2827522b1">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:prakashpandeysearch192@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
