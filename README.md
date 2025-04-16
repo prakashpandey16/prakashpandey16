@@ -12,12 +12,25 @@
 
 ---
 
-## 🛠️ Skills & Technologies:
-  
-**Programming:** Python, C++, C, Java, SQL  
-**Libraries:** Pandas, NumPy, Matplotlib  
-**Databases:** MySQL  
-**Tools:** Git, Jupyter Notebook, VS Code  
+## 🧠 Tech Stack & Tools
+
+### 👨‍💻 Programming Languages
+- Python, SQL, C++, Java
+
+### 📊 Data Engineering & ETL
+- Data Engineering, ETL Pipelines, Data Warehouse Concepts, Medallion Architecture
+
+### ⚙ Big Data & Distributed Computing
+- PySpark, Databricks (Community Edition)
+
+### 🧮 Data Analysis & Manipulation
+- Pandas, NumPy
+
+### 🗃 Databases
+- MySQL, SQL Server
+
+### 🧰 Tools & IDEs
+- Git & GitHub, Jupyter Notebook, PyCharm, VS Code
 
 ---
 
