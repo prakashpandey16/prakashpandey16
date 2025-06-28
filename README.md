@@ -7,7 +7,7 @@
 
 ## 🚀 About Me:
 
-- 🎓 BCA 2nd Year Student at S.S. Jain Subodh P.G. College
+- 🎓 BCA final Year Student at S.S. Jain Subodh P.G. College
 - 💡 Exploring the world of *Data Engineering* and *Big Data Technologies*
 - 🔧 Currently working with *SQL, Python, PySpark, Pandas, and NumPy*
 - 🎯 Focused on building end-to-end Data Pipeline Projects 
