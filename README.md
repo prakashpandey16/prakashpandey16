@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Prakash Pandey! 👋</h1>
 <p align="center">
-  🎓 BCA 2nd Year Student | 💻 Aspiring Data Engineer
+  🎓 BCA final Year Student | 💻 Aspiring Data Engineer
 </p>
 
 ---
